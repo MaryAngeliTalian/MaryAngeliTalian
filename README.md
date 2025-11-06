@@ -9,6 +9,7 @@ I am a IT student at Xavier University Ateneo de Cagayan de Oro City, driven by 
 - 🌱 I’m currently learning Full Stack Web Development, API creation and life. 
 - 💬 Ask me about dogs then will be friends! ehe
 - 📫 How to reach me: 201031615@my.xu.edu.ph
+- 🏕️ Fun Fact I love adventure yet maarte akow
 
 ## 🌱 Currently Exploring
   - 🚀 Learning Full Stack Web Development
